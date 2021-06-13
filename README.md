@@ -1,3 +1,3 @@
 # Pure Javascript Portfolio Work
 
-Ever-pure Javascript appplication for my portfolio 
+Ever-pure Javascript application for my portfolio 
