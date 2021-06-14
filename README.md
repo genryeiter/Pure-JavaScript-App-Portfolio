@@ -1,3 +1,3 @@
 # Pure Javascript Portfolio Work
 
-Javascript application for my portfolio 
+Pure Javascript Excel application for my portfolio
